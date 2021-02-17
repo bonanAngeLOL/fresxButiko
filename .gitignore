@@ -33,5 +33,7 @@ build/
 .vscode/
 
 ### Linux and VIM ###
+.*.swp
+.*.swo
 *.swp
 *.swo
