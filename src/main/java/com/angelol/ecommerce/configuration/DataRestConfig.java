@@ -24,5 +24,4 @@ public class DataRestConfig implements RepositoryRestConfigurer{
         this.disableMethods(config, disabled, Product.class);
         this.disableMethods(config, disabled, ProductCategory.class);
     }
-
 }
