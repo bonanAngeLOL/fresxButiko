@@ -31,8 +31,6 @@ build/
 
 ### VS Code ###
 .vscode/
-*.swp
-*.swa
-*.swo
+
 [._]*.s[a-w][a-z]
 [._]s[a-w][a-z]
